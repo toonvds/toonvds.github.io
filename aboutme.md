@@ -9,11 +9,11 @@ Hi! 👋 My name is Toon Vanderschueren. I'm a PhD researcher in Business Econom
 </p>
 
 <p align="justify">
-My research focuses on using machine learning to support decision-making in business. I'm interested in operational problems and applications such as fraud detection, credit scoring, maintenance optimization, etc. Broadly, I have worked on:
+My research focuses on using machine learning to support decision-making in business. I'm interested in operational problems and applications such as fraud detection, credit scoring, maintenance optimization, etc. I have worked on:
 </p>
 
 - **Causal inference and prescriptive analytics**:
-  learning the causal effects of possible interventions from observational data to improve decision-making.
+  learning the causal effect of an intervention from observational data to assist decision makers.
   
   
 - **Decision-focused and cost-sensitive learning**:
