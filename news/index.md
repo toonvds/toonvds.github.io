@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Welcome to my website!
-subtitle: Have a look at some of the work I've done:
+subtitle: Have a look at some of the work I've done
+show-avatar: false
 ---
 
 <p align="center">
