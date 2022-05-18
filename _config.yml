@@ -15,7 +15,7 @@ author: Toon Vanderschueren
 
 navbar-links:
   About Me: "aboutme"
-  Papers: https://scholar.google.ca/citations?user=cEpJgXYAAAAJ
+  Papers: "https://scholar.google.ca/citations?user=cEpJgXYAAAAJ"
 
 # --- Logo --- #
 
@@ -45,7 +45,7 @@ social-network-links:
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: toon-vanderschueren/
+ linkedin: toon-vanderschueren
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
