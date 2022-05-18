@@ -14,13 +14,14 @@ author: Toon Vanderschueren
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+#   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
 #   Author's home: "https://deanattali.com"
   Papers: "https://scholar.google.be/citations?hl=nl&user=M9E-FiAAAAAJ"
   News: "news"
+  CV: "/assets/img/CV-Toon-Vanderschueren.pdf"
 
 # --- Logo --- #
 
