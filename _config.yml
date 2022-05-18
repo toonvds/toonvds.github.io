@@ -111,7 +111,7 @@ post_search: false
 navbar-col: "#256466" # Original: "#EAEAEA"
 navbar-text-col: "#ffffff" #"#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+# page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
