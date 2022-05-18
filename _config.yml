@@ -42,7 +42,7 @@ round-avatar: true
 social-network-links:
   email: "toon.vanderschueren@gmail.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#   facebook: deanattali
   github: toonvds
   twitter: ToonVDSchueren
 #   patreon: DeanAttali
@@ -77,7 +77,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+#   facebook: false
   linkedin: true
   vk: false
 
