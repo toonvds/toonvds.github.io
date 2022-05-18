@@ -36,7 +36,7 @@ round-avatar: true
 #title-img: /path/to/image
 
 # Blog not as main page
-paginate_path: "/blog/page:num/"
+paginate_path: "/news/page:num/"
 
 # --- Footer social media links --- #
 
