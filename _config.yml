@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Toon Vanderschueren
 
 # Your name to show in the footer
-author: Some Person
+author: Toon Vanderschueren
 
 # --- List of links in the navigation bar --- #
 
@@ -19,6 +19,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  Papers: "https://scholar.google.be/citations?hl=nl&user=M9E-FiAAAAAJ"
 
 # --- Logo --- #
 
