@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Toon Vanderschueren
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! :wave: My name is Toon Vanderschueren. I'm a PhD researcher in Business Economics at the KU Leuven and in Mathematics at the University of Antwerp, both in Belgium. My research focuses on using machine learning to support decision-making in business. Broadly, I'm interested in two things:
+- **Decision-focused learning**: aligning the optimization of machine learning algorithms to the decision-making context. For example, by integrating costs in the objective function.
+- **Causal inference and prescriptive analytics**: learning the causal effects of possible interventions from observational data to improve decision-making.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### Cost-sensitive learning
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Causal inference
