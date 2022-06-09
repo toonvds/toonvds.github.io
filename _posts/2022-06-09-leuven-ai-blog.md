@@ -2,14 +2,14 @@
 layout: post
 title: New Leuven.AI Story
 subtitle: Minimizing fraud losses using cost-sensitive machine learning and learning to rank
-comments: true
-show-avatar: false
-gh-repo: bradyneal/causal-inference-books
-gh-badge: [star]
-tags: [resources]
+cover-img: /assets/img/Featured_image_landscape.png
+thumbnail-img: /assets/img/Featured_image_landscape.png
+share-img: /assets/img/Featured_image_landscape.png
 comments: true
 permalink: leuven-ai-blog
+tags: [books, test]
 ---
+
 
 Very happy to announce our new Leuven.AI story: [Minimizing fraud losses using cost-sensitive machine learning and learning to rank](https://ai.kuleuven.be/stories/post/2022-06-07-minimizing-fraud-losses/). 
 
