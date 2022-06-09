@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Leuven.AI Story!
+title: New Leuven.AI Story
 subtitle: Minimizing fraud losses using cost-sensitive machine learning and learning to rank
 comments: true
 show-avatar: false
