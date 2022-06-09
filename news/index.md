@@ -6,7 +6,7 @@ show-avatar: false
 
 ## 2022
 
-**[07-06]** Our new paper "Prescriptive maintenance with causal machine learning" is now on arXiv, check it out! 
+**[08-06]** Our new paper "Prescriptive maintenance with causal machine learning" is now on arXiv, check it out! 
 Vanderschueren, T., Boute, R., Baesens, B., Verdonck, T., & Verbeke, W. (2022). Prescriptive maintenance with causal machine learning. [arXiv preprint arXiv:2206.01562](https://arxiv.org/abs/2206.01562).
 
 **[07-06]** Very happy to announce our new Leuven.AI story: [Minimizing fraud losses using cost-sensitive machine learning and learning to rank](https://ai.kuleuven.be/stories/post/2022-06-07-minimizing-fraud-losses/)! This blog post gives a high level introduction to some of the work I've done in fraud detection. It's related to the following two papers: 
