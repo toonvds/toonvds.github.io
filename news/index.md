@@ -5,6 +5,11 @@ show-avatar: false
 ---
 
 
+## 2023
+
+**[20-04]** Our paper on optimizing maintenance with causal machine learning is now published in the [International Journal of Production Economics](https://www.sciencedirect.com/science/article/abs/pii/S0925527323000300).
+
+
 ## 2022
 
 **[08-06]** Our new paper "Prescriptive maintenance with causal machine learning" is now on arXiv, check it out! 
