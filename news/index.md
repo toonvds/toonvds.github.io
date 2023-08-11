@@ -7,8 +7,11 @@ show-avatar: false
 
 ## 2023
 
+**[17-06]** I was fortunate to do a research stay at the [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge. The resulting work will be presented at ICML 2023 in Honolulu, Hawaii! Check out our paper: [Vanderschueren, T.\*, Curth, A.\*, Verbeke, W., & van der Schaar, M. (2023). Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time. International Conference on Machine Learning.](https://arxiv.org/abs/2306.04255).
+
 **[20-04]** Our paper on optimizing maintenance with causal machine learning is now published in the [International Journal of Production Economics](https://www.sciencedirect.com/science/article/abs/pii/S0925527323000300).
 
+**[24-03]** I wrote a [blog post](https://www.dataminingapps.com/2023/03/optimizing-maintenance-with-causal-machine-learning/) on our work on maintenance for Data Science Briefings, the DataMiningApps newsletter.
 
 ## 2022
 
